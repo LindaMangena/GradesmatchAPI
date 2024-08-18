@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GradesmatchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c46bedf545990a4d854e4208d4ff8b0667510f9a")]
 [assembly: System.Reflection.AssemblyProductAttribute("GradesmatchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GradesmatchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

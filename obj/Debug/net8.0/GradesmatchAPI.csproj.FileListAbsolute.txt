@@ -40,3 +40,4 @@ C:\Users\Admin\Desktop\GradesmatchAPI\bin\Debug\net8.0\gradesmatch-frontend\pack
 C:\Users\Admin\Desktop\GradesmatchAPI\bin\Debug\net8.0\gradesmatch-frontend\tsconfig.app.json
 C:\Users\Admin\Desktop\GradesmatchAPI\bin\Debug\net8.0\gradesmatch-frontend\tsconfig.json
 C:\Users\Admin\Desktop\GradesmatchAPI\bin\Debug\net8.0\gradesmatch-frontend\tsconfig.spec.json
+C:\Users\Admin\Desktop\GradesmatchAPI\obj\Debug\net8.0\GradesmatchAPI.sourcelink.json
