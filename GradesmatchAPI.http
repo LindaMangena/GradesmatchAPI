@@ -1,0 +1,6 @@
+@GradesmatchAPI_HostAddress = http://localhost:5027
+
+GET {{GradesmatchAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
